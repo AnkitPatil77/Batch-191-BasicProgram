@@ -1,4 +1,6 @@
+package com.bridgelab;
 import java.util.Scanner;
+
 
 public class EvenOdd {
 

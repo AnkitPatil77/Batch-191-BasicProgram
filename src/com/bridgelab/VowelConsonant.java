@@ -1,3 +1,4 @@
+package com.bridgelab;
 public class VowelConsonant {
 
     public static void main(String[] args) {
